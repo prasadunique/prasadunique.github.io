@@ -11,6 +11,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+<img src="images\3.jpg"/>
+<img src="images\4.jpg"/>
+<img src="images\7.jpg"/>
+<img src="images\8.jpg"/>
+<img src="images\Creativity.jpg"/>
+<img src="images\intellectual.jpg"/>
+<img src="images\students-cap.jpg"/>
+
 # Header 1
 ## Header 2
 ### Header 3
