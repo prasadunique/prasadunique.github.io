@@ -11,13 +11,13 @@ ul {
 }
 ul li {
 	float: left;
-	width: 300px;
+	width: 250px;
 	height: 40px;
 	background-colour: black;
 	opacity: .8;
 	line-height: 40px;
   	text-align: center;
-	font size: 40px;
+	font size: 30px;
 }
 ul li a{
 	text-decoration: none;
