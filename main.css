@@ -14,10 +14,10 @@ ul li {
 	width: 200px;
 	height: 40px;
 	background-colour: black;
-	opacity: .8;
-	line-height: 40px;
+	opacity: .9;
+	line-height: 30px;
   	text-align: center;
-	font size: 30px;
+	font size: 20px;
 }
 ul li a{
 	text-decoration: none;
