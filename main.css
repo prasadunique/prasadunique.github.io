@@ -12,7 +12,7 @@ ul {
 ul li {
 	float: left;
 	width: 180px;
-	height: 80px;
+	height: 100px;
 	background-colour: black;
 	opacity: .9;
 	line-height: 75px;
