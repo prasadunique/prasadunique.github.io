@@ -42,7 +42,7 @@ body {
 
 .main_header {
     background-color: rgba(0, 0, 0, .6);
-    background-image: url("image/header background.jpg");
+    background-image: url(".\image/header background.jpg");
     background-blend-mode: multiply;
     background-size: cover;
     padding-bottom: 30px;
