@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
     font-family: cursive;
-    color: black;
+    color: #000000;
 }
 
 html,
@@ -21,7 +21,7 @@ body {
 .nav a {
     display: inline-block;
     padding: .5em;
-    color: white;
+    color: #FFFFFF;
     text-decoration: none;
 }
 
@@ -42,7 +42,7 @@ body {
 
 .main_header {
     background-color: rgba(0, 0, 0, .6);
-    background-image: url("Images/header background.jpg");
+    background-image: url(".\images\header background.jpg");
     background-blend-mode: multiply;
     background-size: cover;
     padding-bottom: 30px;
@@ -52,9 +52,9 @@ body {
     text-align: center;
     margin: 0;
     font-size: 3em;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Times New Roman', serif;
     font-weight: normal;
-    color: white;
+    color: #FFFFFF;
 }
 
 .band_name_large {
@@ -72,7 +72,7 @@ body {
 }
 
 .section_header {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', serif;
     font-weight: normal;
     color: #333;
     text-align: center;
@@ -89,7 +89,7 @@ body {
 
 .main_footer {
     background-color: #56ccf2;
-    color: white;
+    color: #FFFFFF;
     padding: .25em 0;
 }
 
