@@ -18,6 +18,17 @@ Syntax highlighted code block
 <img src="images\Creativity.jpg"/>
 <img src="images\intellectual.jpg"/>
 <img src="images\students-cap.jpg"/>
+<img src="images\img6.jpg"/>
+<img src="images\img4.jpg"/>
+<img src="images\img3.jpg"/>
+<img src="images\img5.JPG"/>
+<img src="images\img2.JPG"/>
+<img src="images\img1.JPG"/>
+<img src="images\header background.jpg"/>
+<img src="images\gmail_logo.jpg"/>
+<img src="images\facebook.png.jpg"/>
+<img src="images\Whatsap-logo-vector.png"/>
+
 
 # Header 1
 ## Header 2
